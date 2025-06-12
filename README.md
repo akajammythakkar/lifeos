@@ -8,7 +8,7 @@ This project demonstrates a domain-adaptive chatbot framework with dynamic conte
 - Required Python packages (see below)
 - Environment variables for Neo4j connection:
   - `NEO4J_URI` (e.g., `bolt://localhost:7687`)
-  - `NEO4J_USER` (e.g., `neo4j`)
+  - `NEO4J_USER` (e.g., `neo4j`)http://claude.ai/
   - `NEO4J_PASSWORD` (your password)
 
 ## Setup
